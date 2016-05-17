@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <logo/>
+        <menu display_value="K16">57e574c09d2312007f44629bf3593ed5</menu>
+        <name>K16</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_k16</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_k16</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-17 17:15:44</sys_created_on>
+        <sys_id>4fe574c09d2312007f44629bf3593e9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-17 17:15:44</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_k16.user" name="x_k16.user">13e574c09d2312007f44629bf3593ed6</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
